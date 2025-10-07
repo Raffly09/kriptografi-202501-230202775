@@ -28,4 +28,18 @@ Dalam dunia keamanan informasi, semua upaya perlindungan data berpusat pada tiga
 •	Availability (Ketersediaan): Memastikan sistem dan data selalu siap diakses dan digunakan kapan pun dibutuhkan oleh pengguna yang sah, ibarat sebuah layanan publik yang tidak pernah tutup.
 Pada praktiknya, berbagai metode kriptografi modern (seperti enkripsi dan tanda tangan digital) adalah alat utama yang digunakan untuk menegakkan ketiga prinsip ini dan membangun fondasi kepercayaan dalam aktivitas digital kita.
 
+Quiz 1
+1. Siapa tokoh yang dianggap sebagai bapak kriptografi modern?
+Tokoh yang secara luas dianggap sebagai "Bapak Kriptografi Modern" adalah Claude Shannon. Melalui papernya yang monumental pada tahun 1949, "Communication Theory of Secrecy Systems", ia mengubah kriptografi dari sekadar seni menjadi disiplin ilmu yang kokoh. Shannon adalah orang pertama yang menerapkan dasar-dasar matematika dan teori informasi pada kriptografi serta memperkenalkan konsep-konsep kunci seperti diffusion (penyebaran) dan confusion (kerancuan) yang menjadi fondasi bagi desain algoritma enkripsi modern.
+
+2. Sebutkan algoritma kunci publik yang populer digunakan saat ini.
+Beberapa algoritma kriptografi kunci publik (asimetris) yang paling populer dan banyak digunakan saat ini meliputi:
+1)	RSA (Rivest-Shamir-Adleman)
+2)	ECC (Elliptic Curve Cryptography)
+3)	Diffie-Hellman Key Exchange
+4)	DSA (Digital Signature Algorithm)
+
+3. Apa perbedaan utama antara kriptografi klasik dan kriptografi modern?
+Perbedaan mendasar antara kriptografi klasik dan modern terletak pada kompleksitas, dasar keilmuan, dan teknologi yang digunakan. kriptografi klasik lebih merupakan "seni menyembunyikan tulisan" yang mengandalkan kerahasiaan algoritma, sementara kriptografi modern adalah disiplin ilmu matematika yang presisi, di mana keamanannya bergantung pada kekuatan kunci dan kompleksitas algoritma, bukan pada kerahasiaan metodenya itu sendiri (Prinsip Kerckhoffs).
+
 ![Hasil Eksekusi](screenshots/hasil.png)
