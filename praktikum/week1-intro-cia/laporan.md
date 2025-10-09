@@ -42,4 +42,12 @@ Beberapa algoritma kriptografi kunci publik (asimetris) yang paling populer dan 
 3. Apa perbedaan utama antara kriptografi klasik dan kriptografi modern?
 Perbedaan mendasar antara kriptografi klasik dan modern terletak pada kompleksitas, dasar keilmuan, dan teknologi yang digunakan. kriptografi klasik lebih merupakan "seni menyembunyikan tulisan" yang mengandalkan kerahasiaan algoritma, sementara kriptografi modern adalah disiplin ilmu matematika yang presisi, di mana keamanannya bergantung pada kekuatan kunci dan kompleksitas algoritma, bukan pada kerahasiaan metodenya itu sendiri (Prinsip Kerckhoffs).
 
-![Hasil Eksekusi](screenshots/hasil.png)
+(- Lampirkan screenshot hasil eksekusi program (taruh di folder `screenshots/`).  
+- Berikan tabel atau ringkasan hasil uji jika diperlukan.  
+- Jelaskan apakah hasil sesuai ekspektasi.  
+- Bahas error (jika ada) dan solusinya. 
+
+Hasil eksekusi program Caesar Cipher:
+
+![Hasil Eksekusi](/praktikum/week1-intro-cia/Screenshot/repo_setup.png)
+)
