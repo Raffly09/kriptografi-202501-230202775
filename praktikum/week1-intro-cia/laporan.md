@@ -51,7 +51,7 @@ Hasil eksekusi program Caesar Cipher:
 
 ![Hasil Eksekus](/praktikum/week1-intro-cia/screenshot/repo_setup.png)
 
-commit abc12345
+commit 8ac8d8bece7850acdb403f6a689b91d806827e22
 Author: Raffly Ardya Putra <rafflyardya.09@gmail.com>
 Date:   2025-10-12
 
