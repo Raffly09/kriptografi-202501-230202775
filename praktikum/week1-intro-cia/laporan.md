@@ -49,5 +49,10 @@ Perbedaan mendasar antara kriptografi klasik dan modern terletak pada kompleksit
 
 Hasil eksekusi program Caesar Cipher:
 
-![Hasil Eksekusi](C:\Users\raffl\kriptografi-202501-230202775\praktikum\week1-intro-cia\screenshot\repo_setup.png)
-)
+![Hasil Eksekus](/praktikum/week1-intro-cia/screenshot/repo_setup.png)
+
+commit abc12345
+Author: Raffly Ardya Putra <rafflyardya.09@gmail.com>
+Date:   2025-10-12
+
+    week2-cryptosystem: implementasi Caesar Cipher dan laporan )
