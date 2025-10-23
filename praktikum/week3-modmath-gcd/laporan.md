@@ -33,7 +33,7 @@ Dalam implementasi komputasi, aritmetika modular dan GCD banyak diterapkan pada 
 
 ## 4. Langkah Percobaan
 (
-1. Membuat file `modular_math.py` di folder `praktikum/week3-cryptosystem/src/`.
+1. Membuat file `modular_math.py` di folder `praktikum/week3-modular_math/src/`.
 2. Menyalin kode program dari panduan praktikum.
 3. Menjalankan program dengan perintah `python modular_math.py`.)
 
