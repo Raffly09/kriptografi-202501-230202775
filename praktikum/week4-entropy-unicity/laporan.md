@@ -32,7 +32,7 @@ adalah konsep dalam kriptanalisis (khususnya untuk stream cipher dan block ciphe
 ---
 
 ## 3. Alat dan Bahan
-(- Python 3.x  
+(- Python 3.13 
 - Visual Studio Code / editor lain  
 - Git dan akun GitHub    )
 
