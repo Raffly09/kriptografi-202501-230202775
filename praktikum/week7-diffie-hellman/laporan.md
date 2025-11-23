@@ -1,14 +1,17 @@
 # Laporan Praktikum Kriptografi
-Minggu ke-: X  
-Topik: [judul praktikum]  
-Nama: [Nama Mahasiswa]  
-NIM: [NIM Mahasiswa]  
-Kelas: [Kelas]  
+Minggu ke-: 7
+Topik: [Diffie-Hellman Protocol]  
+Nama: [Raffly Ardya Putra]  
+NIM: [230202775]  
+Kelas: [5IKRB] 
 
 ---
 
 ## 1. Tujuan
-(Tuliskan tujuan pembelajaran praktikum sesuai modul.)
+(
+1. Melakukan simulasi protokol Diffie-Hellman untuk pertukaran kunci publik.
+2. Menjelaskan mekanisme pertukaran kunci rahasia menggunakan bilangan prima dan logaritma diskrit.
+3. Menganalisis potensi serangan pada protokol Diffie-Hellman (termasuk serangan Man-in-the-Middle / MITM).)
 
 ---
 
@@ -29,7 +32,7 @@ Contoh: definisi cipher klasik, konsep modular aritmetika, dll.  )
 ## 4. Langkah Percobaan
 (Tuliskan langkah yang dilakukan sesuai instruksi.  
 Contoh format:
-1. Membuat file `caesar_cipher.py` di folder `praktikum/week2-cryptosystem/src/`.
+1. Membuat file `Diffie_Hellman.py` di folder `praktikum/week7-cryptosystem/src/`.
 2. Menyalin kode program dari panduan praktikum.
 3. Menjalankan program dengan perintah `python caesar_cipher.py`.)
 

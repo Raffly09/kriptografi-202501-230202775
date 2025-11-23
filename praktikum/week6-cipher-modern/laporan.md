@@ -35,7 +35,7 @@ AES (Advanced Encryption Standard) adalah algoritma kriptografi jenis simetris y
 ## 4. Langkah Percobaan
 (Tuliskan langkah yang dilakukan sesuai instruksi.  
 Contoh format:
-1. Membuat file `AES_Cipher.py` dan `RSA_Cipher.py` di folder `praktikum/week5-cipher-klasik/src/`.
+1. Membuat file `AES_Cipher.py` dan `RSA_Cipher.py` di folder `praktikum/week6-cipher-klasik/src/`.
 2. Membuat program berdasarkan panduan praktikum.
 3. Menjalankan program dengan perintah `python Caesar_Cipher.py dan Vigenere_Cipher.py`.)
 
