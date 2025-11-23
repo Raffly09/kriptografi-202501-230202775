@@ -134,9 +134,9 @@ Hasil eksekusi program:
 ## 9. Commit Log
 (
 ```
-commit 1e087c81177854034381283388419c88391f74cf
+commit 7e459568ec172e83755aa054bf2519e8f31a8ab0
 Author: Raffly Ardya Putra <rafflyardya.09@gmail.com>
-Date:   2025-11-22
+Date:   2025-11-23
 
     week7-diffie-hellman: Diffie-Hellman Key Exchange )
 ```
