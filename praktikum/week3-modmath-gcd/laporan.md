@@ -157,7 +157,7 @@ if __name__ == "__main__":
 - Jelaskan apakah hasil sesuai ekspektasi.  
 - Bahas error (jika ada) dan solusinya. 
 
-Hasil eksekusi program Caesar Cipher:
+Hasil eksekusi program modmath:
 
 ![Hasil Eksekusi](/praktikum/week3-modmath-gcd/screenshot/Hasil.png)
 )
@@ -190,12 +190,11 @@ Hasil eksekusi program Caesar Cipher:
 ---
 
 ## 9. Commit Log
-(Tuliskan bukti commit Git yang relevan.  
-Contoh:
+(
 ```
 commit aaa2b6e9464d07a929892ac2c48a45c47e1146a2
 Author: Raffly Ardya Putra <rafflyardya.09@gmail.com>
 Date:   2025-10-18
 
-    week3-modularmath: Aritmetika Modular, GCD, Bilangan Prima, Logaritma Diskrit dan laporan )
+    week3-modularmath: Aritmetika Modular, GCD, Bilangan Prima, Logaritma Diskrit)
 ```

@@ -141,8 +141,7 @@ Kurang cocok untuk sistem komunikasi skala besar karena setiap pasangan pengguna
 ---
 
 ## 10. Commit Log
-(Tuliskan bukti commit Git yang relevan.  
-Contoh:
+(
 ```
 commit 8ac8d8bece7850acdb403f6a689b91d806827e22
 Author: Raffly Ardya Putra <rafflyardya.09@gmail.com>

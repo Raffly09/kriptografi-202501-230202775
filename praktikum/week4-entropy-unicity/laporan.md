@@ -157,8 +157,7 @@ Hasil eksekusi program Caesar Cipher:
 ---
 
 ## 9. Commit Log
-(Tuliskan bukti commit Git yang relevan.  
-Contoh:
+(
 ```
 commit dd246f27db620dac62953781a03c9f4d7168ddb1
 Author: Raffly Ardya Putra <rafflyardya.09@gmail.com>

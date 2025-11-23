@@ -169,7 +169,7 @@ if __name__ == "__main__":
 - Jelaskan apakah hasil sesuai ekspektasi.  
 - Bahas error (jika ada) dan solusinya. 
 
-Hasil eksekusi program Caesar Cipher:
+Hasil eksekusi program RSA & AES Cipher:
 
 ![Hasil Eksekusi RSA Cipher](/praktikum/week6-cipher-modern/Screenshot/Hasil%20RSA.png)
 ![Hasil Eksekusi AES Cipher](/praktikum/week6-cipher-modern/Screenshot/Hasil%20AES.png)
@@ -196,12 +196,11 @@ Hasil eksekusi program Caesar Cipher:
 ---
 
 ## 9. Commit Log
-(Tuliskan bukti commit Git yang relevan.  
-Contoh:
+(
 ```
 commit 1e087c81177854034381283388419c88391f74cf
 Author: Raffly Ardya Putra <rafflyardya.09@gmail.com>
 Date:   2025-11-22
 
-    week5-cryptosystem: Cipher Modern )
+    week6-moderncipher: Cipher ModernCipher Modern (AES, RSA) )
 ```

@@ -171,12 +171,11 @@ Hasil eksekusi program Caesar Cipher:
 ---
 
 ## 9. Commit Log
-(Tuliskan bukti commit Git yang relevan.  
-Contoh:
+(
 ```
 commit 4f31a26af40d4b54795d24483892af8f1760d9d3
 Author: Raffly Ardya Putra <rafflyardya.09@gmail.com>
 Date:   2025-11-07
 
-    week5-cryptosystem: Cipher Klasik )
+    week5-cipherklasik: Cipher Klasik (Caesar, Vigenère) )
 ```
