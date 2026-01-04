@@ -1,6 +1,6 @@
 # Laporan Praktikum Kriptografi
 Minggu ke-: 12  
-Topik: [judul praktikum]  
+Topik: [Aolikasi TLS]  
 Nama: [Nama Mahasiswa]  
 NIM: [NIM Mahasiswa]  
 Kelas: [Kelas]  
@@ -75,7 +75,7 @@ Dalam transaksi e-commerce, titik paling krusial adalah saat Login dan Checkout 
 
 ## 6.3
 (
-Isu 1.: Audit Email Perusahaan Dilema: Apakah perusahaan boleh mendekripsi/membaca email karyawan? Analisis: Secara etika bisnis dan hukum, fasilitas email kantor adalah properti perusahaan. Perusahaan seringkali memiliki hak untuk mengaudit komunikasi demi mencegah kebocoran rahasia dagang atau aktivitas ilegal. Namun, karyawan harus diberitahu sejak awal (melalui kontrak kerja) bahwa komunikasi mereka tidak bersifat pribadi 100% pada perangkat kantor. Etika yang baik menuntut transparansi kebijakan, bukan pengawasan diam-diam.
+Isu 1: Audit Email Perusahaan Dilema: Apakah perusahaan boleh mendekripsi/membaca email karyawan? Analisis: Secara etika bisnis dan hukum, fasilitas email kantor adalah properti perusahaan. Perusahaan seringkali memiliki hak untuk mengaudit komunikasi demi mencegah kebocoran rahasia dagang atau aktivitas ilegal. Namun, karyawan harus diberitahu sejak awal (melalui kontrak kerja) bahwa komunikasi mereka tidak bersifat pribadi 100% pada perangkat kantor. Etika yang baik menuntut transparansi kebijakan, bukan pengawasan diam-diam.
 
 Isu 2: Pengawasan Pemerintah (Surveillance) Dilema: Keseimbangan antara privasi warga vs keamanan negara. Analisis: Pemerintah sering meminta "backdoor" atau akses ke komunikasi terenkripsi (seperti kasus FBI vs Apple, atau regulasi di berbagai negara) dengan alasan mencegah terorisme. Evaluasi: Secara teknis, membuat backdoor untuk pemerintah akan melemahkan keamanan bagi semua orang, karena backdoor tersebut bisa ditemukan dan dieksploitasi oleh peretas jahat. Privasi adalah hak asasi, namun pengawasan mungkin dibenarkan jika ada surat perintah pengadilan yang spesifik (lawful interception), bukan pengawasan massal tanpa pandang bulu.
 )
@@ -107,7 +107,7 @@ Contoh:
 (Tuliskan bukti commit Git yang relevan.  
 Contoh:
 ```
-commit abc12345
+commit 14379d34159137bb6a10c6c670afe31a76b8e981
 Author: Raffly Ardya Putra <rafflyardya.09@gmail.com>
 Date:   2025-01-04
 
