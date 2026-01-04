@@ -1,5 +1,5 @@
 # Laporan Praktikum Kriptografi
-Minggu ke-: X  
+Minggu ke-: 10  
 Topik: [PKI]  
 Nama: [Raffly Ardya Putra]  
 NIM: [230202775]  

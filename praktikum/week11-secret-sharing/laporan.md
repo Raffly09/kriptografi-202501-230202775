@@ -88,8 +88,8 @@ Contoh:
 Contoh:
 ```
 commit abc12345
-Author: Nama Mahasiswa <email>
-Date:   2025-09-20
+Author: Raffly Ardya Putra <rafflyardya.09@gmail.com>
+Date:   2025-01-04
 
-    week2-cryptosystem: implementasi Caesar Cipher dan laporan )
-```
+    week7-secret-sharing: TLS )
+````
